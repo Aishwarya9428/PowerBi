@@ -47,7 +47,7 @@ A card visual was used to represent count of customers.
  
  ![Snap_3](https://github.com/user-attachments/assets/0d6a45dc-65fa-457a-813d-032d742b5b28)
  
- - Step 18 : The report was then published to Power BI Service.
+ - Step 11 : The report was then published to Power BI Service.
  
  
 ![Publish_Message](https://github.com/user-attachments/assets/145a60bd-5115-40a6-9999-01a4da7fa709)
