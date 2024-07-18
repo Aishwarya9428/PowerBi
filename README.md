@@ -1,4 +1,4 @@
-# Airlines-Dashboard
+# Adventure Works - Sales Dashboard
 
 ### Dashboard Link : https://app.powerbi.com/view?r=eyJrIjoiMDAyNGQ4ZDUtMTE3OC00NjA3LWE4NTktYzAzZjllNmFiMWFlIiwidCI6IjY3OWE0MDJlLTAwOWEtNGU2ZC05ODNlLTg5YmEyNDY5OTM5NyJ9
 
